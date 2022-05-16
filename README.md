@@ -1,4 +1,4 @@
-# A-Mini-Interpreter_OOP2CP_TP
+# A Mini Interpreter OOP2CP TP
 
 ```diff
 - This is my OOP Practical work during the second year of preparatory classes at ESI Algiers 
